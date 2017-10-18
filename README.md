@@ -9,7 +9,7 @@
 
 ## DECOUVERTE DES PRINCIPALES COMMANDES
 
-Un cobaye réagit au commande du développeur
+Un cobaye réagit aux commandes du développeur
 
 ### Ex. 1
 
@@ -43,6 +43,8 @@ Un cobaye réagit au commande du développeur
 https://code.org/minecraft
 
 ## SCRATCH
+
+On reprendre le cobaye en ajoutant un système orthonormé pour decrire les positions et les deplacements (X en abscisse et Y en ordonnées)
 
 https://scratch.mit.edu
 
