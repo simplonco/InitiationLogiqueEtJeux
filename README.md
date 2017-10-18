@@ -3,7 +3,7 @@
 ## BUT
 
 * Médiation numérique avec les enfants
-* Comprendre les basique des langages de programmation
+* Comprendre les basiques des langages de programmation
 * Comprendre la logique de développement d’un jeu
 
 
@@ -47,6 +47,22 @@ https://code.org/minecraft
 On reprendre le cobaye en ajoutant un système orthonormé pour decrire les positions et les deplacements (X en abscisse et Y en ordonnées)
 
 https://scratch.mit.edu
+
+### La consigne : 
+
+Le but est de réaliser un jeu dans lequel le chat "scratch" doit attraper une souris.
+
+Le chat est dirigé par l'utilisateur grâce aux touches de clavier : haut, bas, droite, gauche
+
+La souris bouge de gauche à droite et pivote quand elle touche le mur pour aller en sens inverse. La souris va de droite à gauche sans s'arrêter.
+
+Si le chat touche la souris, la chat miaule et la souris arrête de bouger.
+
+### Comment animer ce tutoriel d'initiation auprès des enfants
+
+[Tuto PDF](./initiation-programmation-coder-scratch.pdf)
+
+Si vous voulez essayer sans lire le tutoriel, libre à vous :) ; Néanmoins je vous conseille de suivre ce tutoriel pour faire l'exercice.
 
 ## CODE COMBAT
 
