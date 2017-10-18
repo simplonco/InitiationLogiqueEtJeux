@@ -11,19 +11,27 @@
 
 Un cobaye réagit au commande du développeur
 
+### Ex. 1
+
 1. Lance le programme
 2. avance d’un pas
 3. Tourne a droite
 4. avance d’un pas
 
+### Ex. 2
+
 1. Modifie le programme
 2. SI « claque des main » ALORS « avance d’un pas »
 3. Relance le programme pour qu’il prenne en compte les nouvelles commande
+
+### Ex. 3
 
 1. Modifie le programme
 2. REPETER 10 fois « avance d’un pas »
 3. Si « claque des main » ALORS stoppe
 4. Relance le programme pour qu’il prenne en compte les nouvelles commande
+
+### Ex. 4
 
 1. Modifie le programme
 2. REPETER infiniment « avance d’un pas » 
