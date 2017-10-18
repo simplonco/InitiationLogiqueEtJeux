@@ -54,7 +54,7 @@ Le but est de réaliser un jeu dans lequel le chat "scratch" doit attraper une s
 
 Le chat est en haut à gauche de l'ecran. La souris est en bas de l'écran et va de droite à gauche sans s'arrêter.
 
-Le chat est dirigé par l'utilisateur grâce aux touches de clavier : haut, bas, droite, gauche.
+L'utilisateur peux diriger le chat vers la souris grâce aux touches de clavier : haut, bas, droite, gauche.
 
 Si le chat touche la souris, la chat miaule et la souris arrête de bouger.
 
